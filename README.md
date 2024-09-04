@@ -8,6 +8,12 @@ Este repositorio explora las técnicas y consideraciones éticas detrás del web
 
 El web scraping es una técnica automatizada utilizada para extraer información de sitios web. Es una herramienta invaluable para investigadores, desarrolladores y empresas que buscan analizar grandes volúmenes de datos sin intervención manual. Sin embargo, su uso debe estar alineado con las normativas legales y principios éticos que protegen los derechos de los propietarios de sitios web y la privacidad de los usuarios.
 
+Para el repositorio exploraremos un ejemplo con una página de retail de muebles, la cual vende sofás, para la que nos interesa obtener de su primera página: 
+* El código
+* El nombre del producto
+* El link de la fotografía en la web
+* El precoi del producto
+
 ![image](https://github.com/user-attachments/assets/3fbc99fd-7b54-42ae-b8d8-fb7cf72f7497)
 
 ## Posibilidades del Web Scraping en Tiendas de Retail
