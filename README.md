@@ -12,7 +12,7 @@ Para el repositorio exploraremos un ejemplo con una página de retail de muebles
 * El código
 * El nombre del producto
 * El link de la fotografía en la web
-* El precoi del producto
+* El precio del producto
 
 ![image](https://github.com/user-attachments/assets/3fbc99fd-7b54-42ae-b8d8-fb7cf72f7497)
 
