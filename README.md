@@ -49,6 +49,10 @@ El web scraping es una técnica automatizada utilizada para extraer información
 
 El web scraping es una herramienta poderosa con un gran potencial para la innovación y el análisis de datos, pero debe ser utilizado con responsabilidad. Este repositorio busca proporcionar una base sólida para la comprensión de las capacidades del web scraping, al tiempo que promueve un enfoque ético y legalmente sólido.
 
+Para el ejercicio obtuvimos el siguiente resultado, el cual contiene productos, códigos, fotografía y precios. 
+
+![image](https://github.com/user-attachments/assets/3f144ed8-2d1d-43b4-ad88-1b0c958e32a9)
+
 ---
 
 **Advertencia:** Este proyecto se presenta con fines educativos. Los desarrolladores deben cumplir con todas las leyes y regulaciones locales al utilizar técnicas de web scraping. El autor no se hace responsable de cualquier mal uso de la información contenida en este repositorio.
