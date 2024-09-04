@@ -1,4 +1,4 @@
-# Web Scraping de Tiendas de Retail: Ética y Posibilidades
+# Web Scraping de Tiendas de Retail: Funcionamiento, Ética y Posibilidades
 
 ## Introducción
 
