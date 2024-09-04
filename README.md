@@ -59,6 +59,9 @@ Para el ejercicio obtuvimos el siguiente resultado, el cual contiene productos, 
 
 ![image](https://github.com/user-attachments/assets/3f144ed8-2d1d-43b4-ad88-1b0c958e32a9)
 
+## Ejemplo de visualización en Tableau de la implementación (Ejecución y actualización diaría):
+
+![image](https://github.com/user-attachments/assets/e09c46a5-f77c-42d2-b34e-5d63c0eb1709)
 ---
 
 **Advertencia:** Este proyecto se presenta con fines educativos. Los desarrolladores deben cumplir con todas las leyes y regulaciones locales al utilizar técnicas de web scraping. El autor no se hace responsable de cualquier mal uso de la información contenida en este repositorio.
